@@ -12,6 +12,7 @@
 .col-md-8 {
 	height: 900px;
 	box-shadow: 0px 1px 1px 1px gray;
+	background-color: white;
 }
 
 /*.withLine {
@@ -27,7 +28,7 @@
 
 table {
 	border: 10px groove #18B200;
-	border-radius: 15px 15px 15px 15px
+	border-radius: 30px 30px 30px 30px
 }
 
 .navbar-collapse {
@@ -84,11 +85,21 @@ table {
 
 }
 
-#list3 {
-	margin: auto;
-		
+body {
+	background: url("./Schweg/Birch.jpg");
 }
 
-#list2 {
-	
+.nav.navbar-nav.nav-stacked.affix {
+	border: 1px solid black;
+	border-radius: 5px 5px 5px 5px;
+	background-color: white;
+	width: 160px;
+	font-size: 24px;
+}
+a:hover, a:focus {
+	border-radius: 5px 5px 5px 5px;
+}
+
+#list3 {
+	margin-left: 50px;
 }
