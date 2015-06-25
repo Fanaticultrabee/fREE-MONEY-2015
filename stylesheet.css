@@ -130,3 +130,28 @@ a:hover, a:focus {
 	background-color: rgba(175, 175, 175, 0.3);
 	border-radius: 5px 5px 5px 5px;
 }
+<<<<<<< HEAD
+
+#MatH {
+	max-width: 700px;
+	border: 1px solid black;
+	border-radius: 90px 90px 90px 90px;
+	max-height: 300px;
+}
+
+#Matdiv {
+	text-align: center;
+	margin-top: 50px;
+}
+
+#Banner {
+	width: 100%;
+}
+
+#BannerB {
+	width: 100%;
+=======
+#anton {
+	height:25px;
+>>>>>>> 0b2d84e4c8e03a4f5d610a5ae4e6903dd1e73e9d
+}
