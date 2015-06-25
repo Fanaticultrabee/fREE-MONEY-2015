@@ -87,6 +87,8 @@ table {
 
 body {
 	background: url("./Schweg/Birch.jpg");
+	background-repeat: no-repeat;
+    background-attachment: fixed;
 }
 
 .nav.navbar-nav.nav-stacked.affix {
@@ -120,8 +122,10 @@ a:hover, a:focus {
 }
 
 #utopiadiv {
-	text-align: center;
-	margin-top: 50px;
+	position: absolute;
+	right: 10px;
+	margin-top: 10px;
+
 	
 
 }
@@ -151,7 +155,13 @@ a:hover, a:focus {
 #BannerB {
 	width: 100%;
 }
+<<<<<<< HEAD
 #anton {
 	height:25px;
 
 }
+=======
+
+#anton {
+	height:25px;
+>>>>>>> 5d02ae21ec15f3b51f308a5ad166633e91d33448
