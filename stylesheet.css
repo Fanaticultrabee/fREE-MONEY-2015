@@ -130,3 +130,6 @@ a:hover, a:focus {
 	background-color: rgba(175, 175, 175, 0.3);
 	border-radius: 5px 5px 5px 5px;
 }
+#anton {
+	height:25px;
+}
