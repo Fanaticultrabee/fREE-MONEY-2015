@@ -133,15 +133,19 @@ a:hover, a:focus {
 
 
 #MatH {
-	max-width: 700px;
+	max-width: 50%;
 	border: 1px solid black;
-	border-radius: 90px 90px 90px 90px;
-	max-height: 300px;
+	border-radius: 25px 25px 25px 25px;
+	max-height: 200px;
+	right: 13%;
+	position: absolute;
+	z-index: 1;
 }
 
 #Matdiv {
-	text-align: center;
+	
 	margin-top: 50px;
+
 }
 
 #Banner {
@@ -162,3 +166,20 @@ a:hover, a:focus {
 
 }
 
+#infodiv {
+	height: 200px;
+	width: 50%;
+	box-shadow: 0px 1px 1px 1px gray;
+	position: relative;
+	margin-top: 50px;
+}
+
+#infodiv1 {
+	height: 200px;
+	width: 50%;
+	border: 1px solid black;
+	position: relative;
+	margin-top: 50px;
+	border-radius: 20px 20px 20px 20px;
+	-webkit-transform: rotate(-10deg);
+}
