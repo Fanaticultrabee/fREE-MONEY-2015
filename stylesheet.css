@@ -119,15 +119,11 @@ a:hover, a:focus {
 	border: 1px solid black;
 	border-radius: 120px 120px 120px 120px;
 	max-height: 300px;
+	float: right;
 }
 
 #utopiadiv {
-	position: absolute;
-	right: 10px;
 	margin-top: 10px;
-
-	
-
 }
 
 .active {
@@ -158,3 +154,8 @@ a:hover, a:focus {
 
 #anton {
 	height:25px;
+}
+
+#text {
+
+}
