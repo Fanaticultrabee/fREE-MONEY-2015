@@ -117,13 +117,13 @@ a:hover, a:focus {
 #utopia {
 	max-width: 700px;
 	border: 1px solid black;
-	border-radius: 120px 120px 120px 120px;
+	border-radius: 5px 5px 5px 5px;
 	max-height: 300px;
 	float: right;
 }
 
 #utopiadiv {
-	margin-top: 10px;
+	margin-top: 15px;
 }
 
 .active {
