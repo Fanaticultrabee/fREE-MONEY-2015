@@ -178,13 +178,3 @@ a:hover, a:focus {
 	position: relative;
 	margin-top: 50px;
 }
-
-#infodiv1 {
-	height: 200px;
-	width: 50%;
-	border: 1px solid black;
-	position: relative;
-	margin-top: 50px;
-	border-radius: 20px 20px 20px 20px;
-	-webkit-transform: rotate(-10deg);
-}
