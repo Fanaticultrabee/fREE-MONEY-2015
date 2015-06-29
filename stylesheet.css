@@ -117,6 +117,7 @@ a:hover, a:focus {
 	border: 1px solid black;
 	border-radius: 120px 120px 120px 120px;
 	max-height: 300px;
+<<<<<<< HEAD
 }
 
 #utopiadiv {
@@ -124,6 +125,15 @@ a:hover, a:focus {
 	margin-top: 50px;
 	
 
+=======
+	float: right;
+	margin-left: 15px;
+}
+
+#utopiadiv {
+	margin-top: 15px;
+	margin-left: 15px;
+>>>>>>> d4be3fd5345a42800de4dc85fc01465ca0080a71
 }
 
 .active {
@@ -135,8 +145,16 @@ a:hover, a:focus {
 #MatH {
 	max-width: 700px;
 	border: 1px solid black;
+<<<<<<< HEAD
 	border-radius: 90px 90px 90px 90px;
 	max-height: 300px;
+=======
+	border-radius: 25px 25px 25px 25px;
+	max-height: 200px;
+	right: 7%;
+	position: absolute;
+	z-index: 1;
+>>>>>>> d4be3fd5345a42800de4dc85fc01465ca0080a71
 }
 
 #Matdiv {
@@ -154,4 +172,26 @@ a:hover, a:focus {
 
 #anton {
 	height:25px;
+<<<<<<< HEAD
 }
+=======
+
+	border: auto;
+}
+
+
+}
+
+
+#text {
+
+}
+
+#infodiv {
+	height: 200px;
+	width: 50%;
+	box-shadow: 0px 1px 1px 1px gray;
+	position: relative;
+	margin-top: 50px;
+}
+>>>>>>> d4be3fd5345a42800de4dc85fc01465ca0080a71
