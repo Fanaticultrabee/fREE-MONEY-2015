@@ -114,19 +114,11 @@ a:hover, a:focus {
 	margin-left: 50px;
 }
 
-#utopia {
-	max-width: 700px;
-	border: 1px solid black;
-	border-radius: 5px 5px 5px 5px;
-	max-height: 300px;
+.container {
+	width: 500px;
 	float: right;
-	margin-left: 15px;
 }
 
-#utopiadiv {
-	margin-top: 15px;
-	margin-left: 15px;
-}
 
 .active {
 	background-color: rgba(175, 175, 175, 0.3);
