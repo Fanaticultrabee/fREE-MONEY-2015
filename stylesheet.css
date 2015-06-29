@@ -112,19 +112,17 @@ a:hover, a:focus {
 
 #list3 {
 	margin-left: 50px;
+
 }
 
-#utopia {
-	
-	border: 1px solid black;
-	border-radius: 5px 5px 5px 5px;
-	max-height: 300px;
+.container {
+	width: 500px;
+	margin-right: -15px;
 	float: right;
-	margin-left: 15px;
 }
 
-#utopiadiv {
-	margin-top: 15px;
+.carousel-caption {
+	text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
 }
 
 .active {
