@@ -87,6 +87,8 @@ table {
 
 body {
 	background: url("./Schweg/Birch.jpg");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
 }
 
 .nav.navbar-nav.nav-stacked.affix {
@@ -120,9 +122,6 @@ a:hover, a:focus {
 	max-height: 300px;
 }
 
-#utopiadiv {
-	text-align: center;
-	margin-top: 50px;
 }
 .container {
 	width: 500px;
@@ -130,9 +129,7 @@ a:hover, a:focus {
 	float: right;
 }
 
-#utopiadiv {
-	margin-top: 15px;
-	margin-left: 15px;
+
 }
 
 .carousel-caption {
@@ -189,23 +186,24 @@ a:hover, a:focus {
 	height:25px;
 }
 
-
-
+.butikbild {
+	float: right;
+	max-height: 200px;
 }
 
+.ICA{
+	margin-top: 20px;
 }
-
-
-}
-
 
 #text {
-
+	margin-left: 5px;
 }
+
+
 
 #infodiv {
 	height: 200px;
-	width: 50%;
+	width: 100%;
 	box-shadow: 0px 1px 1px 1px gray;
 	position: relative;
 	margin-top: 50px;
