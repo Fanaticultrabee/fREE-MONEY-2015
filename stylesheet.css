@@ -87,8 +87,6 @@ table {
 
 body {
 	background: url("./Schweg/Birch.jpg");
-	background-repeat: no-repeat;
-    background-attachment: fixed;
 }
 
 .nav.navbar-nav.nav-stacked.affix {
@@ -115,14 +113,38 @@ a:hover, a:focus {
 
 }
 
+<<<<<<< HEAD
+#utopia {
+	max-width: 700px;
+	border: 1px solid black;
+	border-radius: 120px 120px 120px 120px;
+	max-height: 300px;
+<<<<<<< HEAD
+}
+
+#utopiadiv {
+	text-align: center;
+	margin-top: 50px;
+	
+
+=======
+=======
 .container {
 	width: 500px;
 	margin-right: -15px;
+>>>>>>> cf7fb354a14db0565831a42c431fb081ad9fbc4f
 	float: right;
 }
 
+<<<<<<< HEAD
+#utopiadiv {
+	margin-top: 15px;
+	margin-left: 15px;
+>>>>>>> d4be3fd5345a42800de4dc85fc01465ca0080a71
+=======
 .carousel-caption {
 	text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+>>>>>>> cf7fb354a14db0565831a42c431fb081ad9fbc4f
 }
 
 .active {
@@ -132,24 +154,27 @@ a:hover, a:focus {
 
 
 #MatH {
-	max-width: 50%;
+	max-width: 700px;
 	border: 1px solid black;
+<<<<<<< HEAD
+	border-radius: 90px 90px 90px 90px;
+	max-height: 300px;
+=======
 	border-radius: 25px 25px 25px 25px;
 	max-height: 200px;
 	right: 7%;
 	position: absolute;
 	z-index: 1;
+>>>>>>> d4be3fd5345a42800de4dc85fc01465ca0080a71
 }
 
 #Matdiv {
-	
+	text-align: center;
 	margin-top: 50px;
-
 }
 
 #Banner {
 	width: 100%;
-	border-radius: 0px 0px 5px 5px;
 }
 
 #BannerB {
@@ -158,6 +183,9 @@ a:hover, a:focus {
 
 #anton {
 	height:25px;
+<<<<<<< HEAD
+}
+=======
 
 	border: auto;
 }
@@ -177,3 +205,11 @@ a:hover, a:focus {
 	position: relative;
 	margin-top: 50px;
 }
+<<<<<<< HEAD
+>>>>>>> d4be3fd5345a42800de4dc85fc01465ca0080a71
+=======
+
+.carousel-control {
+	border-radius: 5px 5px 5px 5px;
+}
+>>>>>>> cf7fb354a14db0565831a42c431fb081ad9fbc4f
