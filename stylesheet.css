@@ -223,4 +223,6 @@ a:hover, a:focus {
 	border-radius: 5px 5px 5px 5px;
 }
 
-
+p {
+	text-decoration: none;
+}
