@@ -228,3 +228,12 @@ a:hover, a:focus {
 p {
 	text-decoration: none;
 }
+
+#skaparna {
+	font-family: Lobster;
+	font-size: 69px;
+}
+
+#batman {
+	width: 100%;
+}
