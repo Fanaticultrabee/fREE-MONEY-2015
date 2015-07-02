@@ -126,3 +126,29 @@ a:hover, a:focus {
 	position: relative;
 	margin-top: 50px;
 }
+}
+
+.carousel-control {
+	border-radius: 5px 5px 5px 5px;
+}
+
+
+
+
+.carousel-control {
+	border-radius: 5px 5px 5px 5px;
+}
+
+p {
+	text-decoration: none;
+}
+
+#skaparna {
+	font-family: Lobster;
+	font-size: 69px;
+}
+
+#batman {
+	width: 100%;
+
+}
