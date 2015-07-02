@@ -152,3 +152,9 @@ p {
 	width: 100%;
 
 }
+
+.iksu {
+	max-width: 333px;
+	float: right;
+	margin-left: 5px;
+}
