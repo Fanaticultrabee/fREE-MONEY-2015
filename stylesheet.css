@@ -4,6 +4,11 @@
 	background-color: white;
 }
 
+#umeafact {
+	max-width: ;
+	float: left;
+}
+
 body { /*Bild i bakgrunden*/
 	background: url("./Schweg/Birch.jpg");
 	background-repeat: no-repeat;
