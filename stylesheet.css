@@ -83,6 +83,7 @@ a:hover, a:focus {
 
 #Banner { /*Hemsidans banner*/
 	width: 100%;
+	border-radius: 0px 0px 5px 5px;
 }
 
 #BannerB { /*Hemsidans banner*/
